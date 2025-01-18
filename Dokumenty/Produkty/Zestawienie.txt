@@ -1,0 +1,4 @@
+Producent	VRam	Cena
+Producent	VRam	Cena
+AMD		16GB	4599
+Nvidia		24GB	5999
